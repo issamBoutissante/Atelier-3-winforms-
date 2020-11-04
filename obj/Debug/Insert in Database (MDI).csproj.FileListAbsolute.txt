@@ -1,0 +1,12 @@
+C:\Users\bouti\source\repos\Insert in Database (MDI)\bin\Debug\Insert in Database (MDI).exe.config
+C:\Users\bouti\source\repos\Insert in Database (MDI)\bin\Debug\Insert in Database (MDI).exe
+C:\Users\bouti\source\repos\Insert in Database (MDI)\bin\Debug\Insert in Database (MDI).pdb
+C:\Users\bouti\source\repos\Insert in Database (MDI)\obj\Debug\Insert in Database (MDI).csprojAssemblyReference.cache
+C:\Users\bouti\source\repos\Insert in Database (MDI)\obj\Debug\Insert_in_Database__MDI_.Form1.resources
+C:\Users\bouti\source\repos\Insert in Database (MDI)\obj\Debug\Insert_in_Database__MDI_.Properties.Resources.resources
+C:\Users\bouti\source\repos\Insert in Database (MDI)\obj\Debug\Insert in Database (MDI).csproj.GenerateResource.cache
+C:\Users\bouti\source\repos\Insert in Database (MDI)\obj\Debug\Insert in Database (MDI).csproj.CoreCompileInputs.cache
+C:\Users\bouti\source\repos\Insert in Database (MDI)\obj\Debug\Insert in Database (MDI).exe
+C:\Users\bouti\source\repos\Insert in Database (MDI)\obj\Debug\Insert in Database (MDI).pdb
+C:\Users\bouti\source\repos\Insert in Database (MDI)\obj\Debug\Insert_in_Database__MDI_.PassengerForm.resources
+C:\Users\bouti\source\repos\Insert in Database (MDI)\obj\Debug\Insert_in_Database__MDI_.PiloteForm.resources
